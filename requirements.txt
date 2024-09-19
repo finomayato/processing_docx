@@ -1,4 +1,4 @@
-langchain
-langchain-openai
-docx2txt
-pydantic
+langchain ~= 0.3.0
+langchain-openai ~= 0.2.0
+docx2txt ~= 0.8
+pydantic ~= 2.9.2
